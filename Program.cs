@@ -6,7 +6,8 @@ namespace CsharpConsoleAppLessons
     {
         static void Main()
         {
-            CodeSamples.Nullable();
+           // ValueTypes.Nullable();
+           ForForeach.For();
         }
     }
 }

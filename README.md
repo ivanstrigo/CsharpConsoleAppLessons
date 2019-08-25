@@ -1,2 +1,2 @@
 ﻿# CsharpConsoleAppLessons
-Lessons for C# aspnetcore console app
+C# aspnetcore console app
